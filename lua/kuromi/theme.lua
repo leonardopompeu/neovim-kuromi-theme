@@ -32,7 +32,7 @@ function M.apply()
 
 	-- Visual selection (sem alpha em hex)
 	-- Se quiser mais destaque: troque bg2 por c.purple (fica bem forte)
-	hl("Visual", { bg = bg2 })
+	hl("Visual", { bg = c.pink, fg = c.bg, bold = true })
 
 	hl("LineNr", { fg = c.com })
 	hl("CursorLineNr", { fg = c.hotpink, bold = true })

@@ -1,15 +1,19 @@
 local M = {}
 
 M.palettes = {
+
+	-- 💜 Kuromi Classic
 	classic = {
-		bg = "#0F0B14",
-		bg2 = "#1A1325",
-		fg = "#EDEAFF",
-		com = "#7C6F9E",
+		bg = "#18122B",
+		bg2 = "#231942",
+		fg = "#F4D9FF", -- rosinha claro
+		com = "#9F86C0",
+
 		purple = "#9D4EDD",
 		pink = "#FF4FA3",
 		lilac = "#C77DFF",
 		hotpink = "#FF2E88",
+
 		red = "#FF3B6B",
 		orange = "#FF8A3D",
 		yellow = "#FFD166",
@@ -18,15 +22,18 @@ M.palettes = {
 		blue = "#4D7CFF",
 	},
 
+	-- ⚡ Neon Kuromi
 	neon = {
-		bg = "#0A0A0F",
-		bg2 = "#140F1F",
-		fg = "#F5F2FF",
-		com = "#6A5C8F",
-		purple = "#A020F0",
+		bg = "#140F2D",
+		bg2 = "#1F1545",
+		fg = "#FFD6FF",
+		com = "#8A7CA8",
+
+		purple = "#B026FF",
 		pink = "#FF1493",
-		lilac = "#B026FF",
+		lilac = "#C77DFF",
 		hotpink = "#FF007F",
+
 		red = "#FF2D55",
 		orange = "#FF7A18",
 		yellow = "#FFE45E",
@@ -35,15 +42,18 @@ M.palettes = {
 		blue = "#2D7DFF",
 	},
 
+	-- 🌸 Soft Kuromi Night
 	soft = {
-		bg = "#120C1C",
-		bg2 = "#1E1430",
-		fg = "#E8E3FF",
-		com = "#5E548E",
+		bg = "#1E1433",
+		bg2 = "#2A1E4A",
+		fg = "#F2D5FF",
+		com = "#A084CA",
+
 		purple = "#8338EC",
 		pink = "#FF4D9D",
-		lilac = "#CDB4FF",
+		lilac = "#D0B3FF",
 		hotpink = "#FF2F92",
+
 		red = "#FF4D6D",
 		orange = "#FF9F1C",
 		yellow = "#FFD6A5",
@@ -52,15 +62,18 @@ M.palettes = {
 		blue = "#60A5FA",
 	},
 
+	-- 😈 Dark Gothic Kuromi
 	gothic = {
-		bg = "#07040C",
-		bg2 = "#110B1A",
-		fg = "#F0EBFF",
-		com = "#50436B",
+		bg = "#120B21",
+		bg2 = "#1C1233",
+		fg = "#F0D0FF",
+		com = "#7A5C9E",
+
 		purple = "#7B2CBF",
 		pink = "#F72585",
-		lilac = "#9D4EDD",
+		lilac = "#B983FF",
 		hotpink = "#FF4FA3",
+
 		red = "#FF2E63",
 		orange = "#FF7F50",
 		yellow = "#FFC857",
