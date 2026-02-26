@@ -108,7 +108,21 @@ For the best experience:
 
 ## 🌟 Screenshots
 
-Add screenshots of each flavour here ✨
+### 💜 Classic
+
+![Classic](assets/classic.png)
+
+### ⚡ Neon
+
+![Neon](assets/neon.png)
+
+### 🌸 Soft
+
+![Soft](assets/soft.png)
+
+### 😈 Gothic
+
+![Gothic](assets/gothic.png)
 
 ---
 
