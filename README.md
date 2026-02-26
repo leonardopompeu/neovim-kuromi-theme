@@ -1,4 +1,4 @@
-# 💜 kuromi.nvim
+# 💜 neovim-kuromi-theme
 
 > A dark, mischievous and irresistibly cute Neovim colorscheme inspired
 > by Kuromi 😈✨\
